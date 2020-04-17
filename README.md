@@ -1,6 +1,6 @@
 # Augmented-Reality-Smart-Glass # Post-glass 
 
-- smart-glass(Epson MOVERIO BT 35E)
+- with smart-glass(Epson MOVERIO BT 35E)
 - UI based on augmented reality and Marker Tracking (PyAutoGui & OpenCV library)
 - face detection, recognition & classification (FaceNet) 
 - speech recognition and find student information from data-base (Google Web Speech & API Marker)
