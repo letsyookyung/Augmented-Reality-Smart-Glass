@@ -5,3 +5,6 @@
 - face detection, recognition & classification (FaceNet) 
 - speech recognition and find student information from data-base (Google Web Speech)
 - user hand writing(based on marker tracking) classification (CNN) -> input classified text on the screen(PPT)
+
+- demo-video for your reference :
+https://youtu.be/mIsOSp4uQtA
