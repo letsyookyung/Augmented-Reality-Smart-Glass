@@ -1,6 +1,5 @@
 # Augmented-Reality-Smart-Glass 
-# Post-glass - Learning Management System
-
+### Post-glass - Learning Management System
 - with smart-glass(Epson MOVERIO BT 35E)
 - UI based on augmented reality and Marker Tracking (PyAutoGui & OpenCV library)
 - face detection, recognition & classification (FaceNet) 
