@@ -9,6 +9,7 @@
 https://youtu.be/mIsOSp4uQtA
 
 - we refered to: 
+
 https://github.com/syamkakarla98/Attendancce-Posting-Using-FaceRecognition 
 https://github.com/EvilPort2/SimpleGestureRecognition/ 
 
