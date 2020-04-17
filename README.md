@@ -5,6 +5,11 @@
 - face detection, recognition & classification (OpenCV & FaceNet) 
 - speech recognition and find student information from data-base (Google Web Speech)
 - user hand writing(based on marker tracking) classification (CNN) -> input classified text on the screen(PPT)
-
 - demo-video for your reference :
 https://youtu.be/mIsOSp4uQtA
+
+- we refered to: 
+https://github.com/syamkakarla98/Attendancce-Posting-Using-FaceRecognition 
+https://github.com/EvilPort2/SimpleGestureRecognition/ 
+
+
