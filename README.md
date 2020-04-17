@@ -8,6 +8,7 @@
 - demo-video for your reference :
 https://youtu.be/mIsOSp4uQtA
 
+- I might forgot to upload some files you need. Please refer libraries mentioned on the code.
 ### we refered to:   
 - https://github.com/syamkakarla98/Attendancce-Posting-Using-FaceRecognition 
 - https://github.com/EvilPort2/SimpleGestureRecognition/ 
