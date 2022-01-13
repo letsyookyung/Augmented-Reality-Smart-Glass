@@ -3,7 +3,7 @@
 ## 🎯 Objectives
 - For improving class environment by developing AR smart glass regarding checking attendance, checking student information, making notes during class.
 
-## :memo: Progress 
+## :memo: Project goes
 - with smart-glass(Epson MOVERIO BT 35E)
 - UI based on augmented reality and Marker Tracking (PyAutoGui & OpenCV)
 - face detection, recognition & classification (OpenCV & FaceNet) 
