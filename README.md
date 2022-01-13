@@ -1,5 +1,9 @@
-# Augmented-Reality-Smart-Glass 
-### Post-glass - Learning Management System
+# 👓 AR(Augmented-Reality) Smart Glass 
+
+## 🎯 Objectives
+- For improving class environment by developing AR smart glass regarding checking attendance, checking student information, making notes during class.
+
+## :memo: Progress 
 - with smart-glass(Epson MOVERIO BT 35E)
 - UI based on augmented reality and Marker Tracking (PyAutoGui & OpenCV)
 - face detection, recognition & classification (OpenCV & FaceNet) 
@@ -9,7 +13,7 @@
 https://youtu.be/mIsOSp4uQtA
 
 - I might forgot to upload some files you need. Please refer libraries mentioned on the code.
-### we refered to:   
+### :memo: refered to:   
 - https://github.com/syamkakarla98/Attendancce-Posting-Using-FaceRecognition 
 - https://github.com/EvilPort2/SimpleGestureRecognition/ 
 
